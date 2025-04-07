@@ -9,7 +9,6 @@ This project demonstrates an image classification pipeline using TensorFlow and 
 ## 📦 Requirements
 
 Make sure you have Python 3.7 or higher. Run to install required library: 
-
 <code>
 pip install numpy<br>
 pip install pandas<br>
@@ -19,7 +18,8 @@ pip install imutils<br>
 pip install scikit-learn<br>
 pip install tensorflow
 </code>
-
+<br>
+</br>
 Or run in one: 
 <code>
 pip install numpy pandas matplotlib opencv-python imutils scikit-learn tensorflow
