@@ -1,4 +1,4 @@
-# DenseNet-in-Trash-Classification
+#Trash-Classification
 
 # 🧠 Image Classification with TensorFlow
 
